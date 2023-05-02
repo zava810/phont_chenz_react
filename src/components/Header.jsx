@@ -12,7 +12,7 @@ const Header = () => {
       <div className='hedr_div'>
         <div>
           <NavLink to="/">
-            <img src='./imz/tvilogo.jpg' alt='logo' height={40} width={40}/>
+            <img src='./imz/tvilogo.jpg' alt='logo' height={58} width={58}/>
           </NavLink>
         </div>
         <div><Phont_selects/></div>
